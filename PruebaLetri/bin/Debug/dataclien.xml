@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Clientes>
+     <idCliente>39</idCliente>
+    <Apellido />
+    <Nombre>sdf</Nombre>
+    <Dirección>sdf</Dirección>
+    <Teléfono>sd</Teléfono>
+    <Mail>f</Mail>
+    <Trabajos>30/3/2018 7:53:24 p. m.</Trabajos>
+    <Comentarios>sdf</Comentarios>
+    <Cuit />
+    <Trabajo_x0020_Habitual>sdf</Trabajo_x0020_Habitual>
+  </Clientes>
+</NewDataSet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<miDataSet>
+  <Cliente>
+	<idCliente/>
+	<Apellido/>
+	<Nombre/>
+	<Direccion/>
+	<Telefono/>
+	<Mail/>
+	<Fecha-Ult-Trabajo/>
+	<Comentarios/>
+  </Cliente>
+</miDataSet>

@@ -1,0 +1,13 @@
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\bin\Debug\PruebaLetri.exe.config
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\bin\Debug\PruebaLetri.exe
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\bin\Debug\PruebaLetri.pdb
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.csprojResolveAssemblyReference.cache
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.MainForm.resources
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.csproj.GenerateResource.Cache
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.exe
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.pdb
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.Form1.resources
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.Form2.resources
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.listasTrabajos.resources
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.agregartrabajo.resources
+C:\Users\Mi-PC\Documents\SharpDevelop Projects\PruebaLetri\PruebaLetri\obj\Debug\PruebaLetri.VentanaComentarios.resources
