@@ -1,0 +1,411 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Clientes>
+    <idCliente>40</idCliente>
+    <Apellido>safas</Apellido>
+    <Nombre>fas</Nombre>
+    <Dirección>fas</Dirección>
+    <Teléfono>f</Teléfono>
+    <Mail>asf</Mail>
+    <Trabajos>28/5/2018 6:29:22 p. m.</Trabajos>
+    <Comentarios>3453453453</Comentarios>
+    <Cuit>a</Cuit>
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>41</idCliente>
+    <Apellido>dgsd</Apellido>
+    <Nombre>fsd</Nombre>
+    <Dirección />
+    <Teléfono />
+    <Mail>sd</Mail>
+    <Trabajos>28/5/2018 6:30:15 p. m.</Trabajos>
+    <Comentarios>asfasfafaf</Comentarios>
+    <Cuit />
+    <Trabajo_x0020_Habitual>sd</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>42</idCliente>
+    <Apellido>tosti</Apellido>
+    <Nombre>gior</Nombre>
+    <Dirección />
+    <Teléfono>a</Teléfono>
+    <Mail />
+    <Trabajos>30/5/2018 7:13:10 p. m.</Trabajos>
+    <Comentarios>vgujgjgyjg</Comentarios>
+    <Cuit />
+    <Trabajo_x0020_Habitual>as</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>43</idCliente>
+    <Apellido>asfasfafasf</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 7:59:31 p. m.</Trabajos>
+    <Comentarios>sdgsdgsdg</Comentarios>
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>44</idCliente>
+    <Apellido>gsa</Apellido>
+    <Nombre>a</Nombre>
+    <Dirección>fas</Dirección>
+    <Teléfono>fa</Teléfono>
+    <Mail>sf</Mail>
+    <Trabajos>30/5/2018 8:00:13 p. m.</Trabajos>
+    <Comentarios>asfasfaf</Comentarios>
+    <Cuit>as</Cuit>
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>45</idCliente>
+    <Apellido>asaaaaaa</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 8:00:58 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>46</idCliente>
+    <Apellido>22222</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 8:09:16 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>49</idCliente>
+    <Apellido>asdasda</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>50</idCliente>
+    <Apellido>asasfa</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>40</idCliente>
+    <Apellido>safas</Apellido>
+    <Nombre>fas</Nombre>
+    <Dirección>fas</Dirección>
+    <Teléfono>f</Teléfono>
+    <Mail>asf</Mail>
+    <Trabajos>28/5/2018 6:29:22 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit>a</Cuit>
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>41</idCliente>
+    <Apellido>dgsd</Apellido>
+    <Nombre>fsd</Nombre>
+    <Dirección />
+    <Teléfono />
+    <Mail>sd</Mail>
+    <Trabajos>28/5/2018 6:30:15 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual>sd</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>42</idCliente>
+    <Apellido>tosti</Apellido>
+    <Nombre>gior</Nombre>
+    <Dirección />
+    <Teléfono>a</Teléfono>
+    <Mail />
+    <Trabajos>30/5/2018 7:13:10 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual>as</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>43</idCliente>
+    <Apellido>asfasfafasf</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 7:59:31 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>44</idCliente>
+    <Apellido>gsa</Apellido>
+    <Nombre>a</Nombre>
+    <Dirección>fas</Dirección>
+    <Teléfono>fa</Teléfono>
+    <Mail>sf</Mail>
+    <Trabajos>30/5/2018 8:00:13 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit>as</Cuit>
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>45</idCliente>
+    <Apellido>asaaaaaa</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 8:00:58 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>46</idCliente>
+    <Apellido>22222</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 8:09:16 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>47</idCliente>
+    <Apellido>zvzv</Apellido>
+    <Nombre>z</Nombre>
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos>30/5/2018 8:10:27 p. m.</Trabajos>
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>48</idCliente>
+    <Apellido>caca</Apellido>
+    <Nombre>hombre</Nombre>
+    <Dirección>52</Dirección>
+    <Teléfono>af</Teléfono>
+    <Mail>gsd</Mail>
+    <Trabajos>garg</Trabajos>
+    <Comentarios>gw</Comentarios>
+    <Cuit>gds</Cuit>
+    <Trabajo_x0020_Habitual>ga</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>49</idCliente>
+    <Apellido>asdasda</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>50</idCliente>
+    <Apellido>asasfa</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>51</idCliente>
+    <Apellido>asfas</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>52</idCliente>
+    <Apellido>cacas</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>53</idCliente>
+    <Apellido>wfff</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>54</idCliente>
+    <Apellido>sgd</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>55</idCliente>
+    <Apellido>a</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>56</idCliente>
+    <Apellido>sdgsdgsdgsdg</Apellido>
+    <Nombre>sdgsd</Nombre>
+    <Dirección />
+    <Teléfono>sdgsd</Teléfono>
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit>g</Cuit>
+    <Trabajo_x0020_Habitual>dgdg</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>57</idCliente>
+    <Apellido>&lt;sdg&lt;sdgsdg&lt;sdg&lt;g</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>58</idCliente>
+    <Apellido />
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>59</idCliente>
+    <Apellido>dfhdzfhdfh</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>60</idCliente>
+    <Apellido>ariza</Apellido>
+    <Nombre>maria belen </Nombre>
+    <Dirección>7 n 227 dto 3</Dirección>
+    <Teléfono>2914711156</Teléfono>
+    <Mail>belciariza87@gmail.com</Mail>
+    <Trabajos />
+    <Comentarios>es la mas linda del mundo, no se como me dio bola. soy un afortunado de la vida, le agradezco a dios por haberla puesto en mi camino, es todo lo que buscaba, una luz vino a mi vida, se me caen los mocos y tengo un cepillo de dientes en la boca a punto de chorrear, aiuda. cuantos caracteres tiene esto ???? hola, ? hay alguien ahi ? no puedo salir de este programa </Comentarios>
+    <Cuit>27-36709210-1</Cuit>
+    <Trabajo_x0020_Habitual>tarjetas de presentación</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>61</idCliente>
+    <Apellido />
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>60</idCliente>
+    <Apellido>ariza</Apellido>
+    <Nombre>maria belen </Nombre>
+    <Dirección>7 n 227 dto 3</Dirección>
+    <Teléfono>2914711156</Teléfono>
+    <Mail>belciariza87@gmail.com</Mail>
+    <Trabajos />
+    <Comentarios>es la mas linda del mundo, no se como me dio bola. soy un afortunado de la vida, le agradezco a dios por haberla puesto en mi camino, es todo lo que buscaba, una luz vino a mi vida, se me caen los mocos y tengo un cepillo de dientes en la boca a punto de chorrear, aiuda. cuantos caracteres tiene esto ???? hola, ? hay alguien ahi ? no puedo salir de este programa </Comentarios>
+    <Cuit>27-36709210-1</Cuit>
+    <Trabajo_x0020_Habitual>tarjetas de presentación</Trabajo_x0020_Habitual>
+  </Clientes>
+  <Clientes>
+    <idCliente>61</idCliente>
+    <Apellido />
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+  <Clientes>
+    <idCliente>62</idCliente>
+    <Apellido>a&lt;sgs&lt;dgsdzgsd</Apellido>
+    <Nombre />
+    <Dirección />
+    <Teléfono />
+    <Mail />
+    <Trabajos />
+    <Comentarios />
+    <Cuit />
+    <Trabajo_x0020_Habitual />
+  </Clientes>
+</DocumentElement>
